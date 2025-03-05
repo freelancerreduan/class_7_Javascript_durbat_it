@@ -1,0 +1,35 @@
+1/ JavaScript পরিচিতি (Introduction)
+    ✅ JavaScript কী এবং কেন শিখবো
+
+
+
+2/ JavaScript Basics
+    ভেরিয়েবল ডিক্লেয়ার (var, let, const)
+
+    ডেটা টাইপস (String, Number, Boolean, Null, Undefined, Object, Array)
+
+     JavaScript-এ কমেন্টস (Single-line //, Multi-line /* */)
+
+
+3/ Operators and Expressions    
+     Arithmetic Operators (+, -, *, /, %, **)
+     Comparison Operators (==, ===, !=, !==, >, <, >=, <=)
+
+
+
+
+4/ . Control Structures (শর্ত এবং লুপ)
+
+    if...else কন্ডিশন
+    for লুপ, while লুপ
+    switch ব্যবহার হয় একাধিক শর্ত থাকলে
+
+
+
+
+
+
+
+
+
+
